@@ -1,0 +1,6 @@
+{
+  "name": "Pana Bus",
+  "description": "Plataforma FinTech de Billetera Digital de Pasaje para transporte público en Venezuela",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

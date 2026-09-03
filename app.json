@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Pana Bus",
+    "slug": "pana-bus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#2b52d2"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#2b52d2"
+      }
+    }
+  }
+}
